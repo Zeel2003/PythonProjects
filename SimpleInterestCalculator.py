@@ -25,3 +25,4 @@ calculator = SimpleInterestCalculator(pAmount, interestRate,time)
 interest = calculator.calculate_simple_interest()
 print('Your investment of',pAmount,'for',time,'years, with',interestRate,
       'interest rate will give you total return of',interest + pAmount,'after',time,'years.')
+
