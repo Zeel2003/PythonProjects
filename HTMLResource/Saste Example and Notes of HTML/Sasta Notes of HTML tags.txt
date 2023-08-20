@@ -1,0 +1,46 @@
+<html>: The root element that wraps all the HTML content.
+<head>: Contains metadata about the document, like the title and character encoding.
+<title>: Sets the title of the web page, displayed in the browser's title bar or tab.
+<body>: Contains the visible content of the web page.
+<h1>, <h2>, ..., <h6>: Heading tags for defining different levels of headings.
+<p>: Represents a paragraph of text.
+<a>: Creates hyperlinks to other web pages or resources.
+
+
+<img>: Embeds images in the document.
+
+<ul>: Defines an unordered (bulleted) list.
+
+<ol>: Defines an ordered (numbered) list.
+
+<li>: Represents a list item within <ul> or <ol>.
+
+<br>: Inserts a line break within text.
+
+<hr>: Creates a thematic break or horizontal line.
+
+<em> or <i>: Indicates emphasized text (usually rendered as italics).
+
+<strong> or <b>: Indicates strongly emphasized text (usually rendered as bold).
+
+<code>: Represents a fragment of computer code.
+
+<input>: Creates various types of form inputs, like text fields, checkboxes, radio buttons, etc.
+
+<textarea>: Defines a multiline text input field.
+
+<button>: Creates clickable buttons.
+
+<select>: Creates a dropdown selection list.
+
+<label>: Provides a label for an input element.
+
+<form>: Defines an HTML form for user input.
+
+<table>: Represents a table structure.
+
+<tr>: Defines a table row.
+
+<th>: Defines a table header cell.
+
+<td>: Defines a table data cell.
